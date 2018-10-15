@@ -19,4 +19,7 @@ This is a repository of the projects I have worked on or are in progress. The pr
 - A publicly available dataset from [LendingClub.com](www.lendingclub.com) has been used to classify and predict whether or not the borrower paid back their loan in full.
 
 [Support Vector Machines](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Support%20Vector%20Machines/Support%20Vector%20Machines%20-%20Breast%20Cancer.ipynb)
-- Given a dataset of breast cancer containing 30 features, we want to design a classification model that predicts whether the cancer is malignant or beningn.
+- The Support Vector Machines algorithm is applied to a scikit-learn's buit-in data set of breast cancer to design a classification model that predicts whether a cancer is malignant or beningn.
+
+[K Means Clustering](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/K%20Means%20Clustering/K%20Means%20Clustering.ipynb)
+- The K Means Clustering algorithm is applied to a university data set to design a classifier that predicts whether a university is a Private Univesrsity or a Public University. 
