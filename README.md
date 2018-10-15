@@ -36,3 +36,4 @@ This is a repository of the projects I have worked on or are in progress. The pr
 
 [Deep Learning and Neural Networks](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Deep%20Learning%20and%20Neural%20Networks/Deep%20Learning.ipynb)
 - The Neural Networks/Deep Learning algorithm is applied on the Bank Authentication Data Set from UCI repository to classify whether or not a Bank Note is authentic.
+- The result of classifier is also compared with the result of a Random Forest classifer.
