@@ -17,3 +17,6 @@ This is a repository of the projects I have worked on or are in progress. The pr
 [Decision Tree and Random Forest](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Decision%20Tree%20and%20Random%20Forest/Decision%20Tree%20and%20Random%20Forest.ipynb)
 - Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this. Lending Club had a [very interesting year in 2016](https://en.wikipedia.org/wiki/Lending_Club#2016), so let's check out some of their data and keep the context in mind.
 - A publicly available dataset from [LendingClub.com](www.lendingclub.com) has been used to classify and predict whether or not the borrower paid back their loan in full.
+
+[Support Vector Machines - Breast Cancer](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Support%20Vector%20Machines/Support%20Vector%20Machines%20-%20Breast%20Cancer.ipynb)
+- Given a dataset of breast cancer containing 30 features, we want to design a classification model that predicts whether the cancer is malignant or beningn.
