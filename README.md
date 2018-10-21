@@ -29,7 +29,7 @@ This is a repository of the projects I have worked on or are in progress. The pr
 
 [Recommender Systems](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Recommender%20Systems/Recommender%20Systems.ipynb)
 - Collaborative Filtering (CF) recommender systems are implemented that suggests the movies based on a famous MovieLens data set.
-- We have implemented a Model-based CF recommender system by using Singular Value Decomposition (SVD) and a Memory-based CF by computing cosine similarity.
+- Implemented a Model-based CF recommender system by using Singular Value Decomposition (SVD) and a Memory-based CF by computing cosine similarity.
 
 [Natural Language Processing](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
 - The Natural Language Processing has been used to design a classifier that classifies Yelp Reviews into 1 star of 5 star categories based off the text content in the reviews.
