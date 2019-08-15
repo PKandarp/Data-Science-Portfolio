@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This is a repository of the projects I have worked on or are in progress. The projects are written in Python (Jupyter Notebook). The goal of the projects is to to use data science/statistical modelling techniques to find something interesting. A typical project consist of finding and cleaning data, analysis, visualization and conclusion. Click on the projects to see full analysis and code.
+This is a repository of the projects I have worked on or are in progress. The projects are written in Python (Jupyter Notebook). The goal of the projects is to to use Artificial Intelligence, Machine Learning, Deep Learning and/or statistical modelling techniques to answer a specific question or find something interesting. A typical project consist of finding and cleaning data, visualization, statistical analysis and conclusion. Click on the projects to see full analysis and code.
 
 # Projects
 
